@@ -12,6 +12,8 @@ Para conseguirmos firmar um contrato e enviá-lo para uma Blockchain necessariam
 
 Abaixo veremos exemplos e formas de criar cada um dos itens necessários. É importante termos em mente que as formas descritas abaixo não são os únicos meios de se conseguir cada um dos três itens, contudo são os mais comuns e com o melhor custo benefício.
 
+![](https://i.ibb.co/bBLSQ5d/sample.jpg)
+
 **Importante!** Os arquivos SmartContract.zip e Exemplos.zip, já possuem um modelo de contrato implementado, sendo assim, caso opte por usar um destes projetos como base, apenas a carteira e o endereço da rede são necessários, desta forma a geração do modelo de contrato só é necessária caso opte por outra linguagem de programação, ou um modelo de contrato diferente do proposto.
 
 ## Rede Blockchain
