@@ -1,4 +1,4 @@
-# SmartContract
+# SmartContract - teste
 
 Este projeto conta com três arquivos .zip.
 
